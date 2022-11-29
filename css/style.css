@@ -114,7 +114,7 @@ nav {
     box-shadow: 0px 59px 39px -37px #0085cf38;
 }
 .our_chan_box {
-    background: #000;
+    background: #101414;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -146,7 +146,7 @@ nav {
     width: 25%;
     margin-top: -10%;
     border-radius: 100px;
-    background-color: #000;
+    background-color: #101414;
     padding: 15px;
     filter: drop-shadow(0px -32px 30px #1da1f25e);
 
@@ -194,6 +194,24 @@ section#our_channels:before {
     box-shadow: 0px 21px 35px #ff623e75;
 }
 
+#our_partners .row {
+    display: flex;
+    align-items: center;
+}
 
+#our_partners h1 {
+    margin: 15px 0px;
+    color: #fff;
+    font-size: 45px;
+}
+
+#our_partners p {
+    color: #fff;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+
+/*Slick Slider*/
 
 
